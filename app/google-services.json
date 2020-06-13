@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "854813109165",
+    "firebase_url": "https://wallpapex-dcc2f.firebaseio.com",
+    "project_id": "wallpapex-dcc2f",
+    "storage_bucket": "wallpapex-dcc2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854813109165:android:8d8760c91e066ab0820f24",
+        "android_client_info": {
+          "package_name": "com.mnn.wallpapex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854813109165-upoblct09fq7ugrrtcnkj2vj8qcae44h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mnn.wallpapex",
+            "certificate_hash": "3bb5e1765a6e1e303d4e9af6a8232b8d0d5f0375"
+          }
+        },
+        {
+          "client_id": "854813109165-sdbb94dqma6bthb40mlncrrj9o1lbkvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfoZMQwW273z5vLSvJj-WJuye34OC735s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854813109165-sdbb94dqma6bthb40mlncrrj9o1lbkvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
